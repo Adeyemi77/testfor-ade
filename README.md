@@ -1,2 +1,5 @@
 # testfor-ade
-to learn the test
+we have successfully tested part 1
+moving on to part 2
+
+to learn the tesiwqt
